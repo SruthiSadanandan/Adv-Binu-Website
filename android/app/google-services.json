@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "173310908835",
+    "project_id": "k-s-binu-associates",
+    "storage_bucket": "k-s-binu-associates.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173310908835:android:9944043d7ddd5ee816e216",
+        "android_client_info": {
+          "package_name": "com.example.adv_ks_binu_assosciates"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkgvqWkvugjadmHLSmZyrRMnca8qWMC-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
